@@ -25,3 +25,9 @@ description: The description of the run
 - Edit AWS creds
 - Deploy by running: `sh deploy.sh`
 - Enjoy
+
+## Run Locally
+
+- Clone project 
+- Run `Bundle install`
+- Run `bundle exec jekyll serve`
