@@ -18,3 +18,10 @@ description: The description of the run
 
 ---
 ```
+
+## Deployment using AWS S3
+
+- Copy s3_website_example.yaml
+- Edit AWS creds
+- Deploy by running: `sh deploy.sh`
+- Enjoy
