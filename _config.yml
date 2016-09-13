@@ -1,5 +1,5 @@
 # Site settings
-title: Nerds Who Run | Boston Technology Running | Bosotn Running Group
+title: Nerds Who Run
 email: hi@nerdswhorun.com
 url: https://nerdswhorun.com
 description: "Nerds Who Run is a Boston running group for nerds. If you're a nerd whose an avid runner or just getting into it come out with us!"
@@ -32,7 +32,7 @@ color:
 # Footer settings
 footer:
   copyright: Nerds Who Run
-  location: Boston, MA
+  location: Boston Esplanade
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
@@ -47,8 +47,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Esplanade
-  - line: Boston, MA
+  - line: 
 
 # Credits content
 credits: 'Built in Boston for Boston'
