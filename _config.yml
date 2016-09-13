@@ -1,0 +1,58 @@
+# Site settings
+title: Nerds Who Run
+email: hi@nerdswhorun.com
+url: https://nerdswhorun.com
+description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+skills: "Weekly Running Group For Nerds"
+meta_author: Darion Miller
+
+# Google webmaster tools
+google_verify:
+
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Contact form:
+# - static : pass through formspree.io to validate email sending
+# - disqus : replace contact form by disqus thread
+# - comment the line below if you want to stick with the default PHP contact form
+contact: static
+
+# If you use disqus you need disqus shortname
+# https://help.disqus.com/customer/portal/articles/466208
+disqus_shortname: myshortname
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 18bc9c #80B3FF
+  primary-rgb: "24,288,156" #"128,179,255"
+  secondary: 2c3e50 #FD6E8A
+  secondary-dark: 233140 #A2122F
+
+# Footer settings
+footer:
+  copyright: Nerds Who Run
+  location: Boston, MA
+  credits: Credits
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/nerdswhorun
+  - title: facebook
+    url: http://facebook.com/nerdswhorun
+  - title: instagram
+    url: http://instagram/nerdswhorun
+
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Esplanade
+  - line: Boston, MA
+
+# Credits content
+credits: 'Built in Boston for Boston'
+
+# Build settings
+markdown: kramdown
+permalink: pretty

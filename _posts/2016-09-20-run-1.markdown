@@ -1,0 +1,10 @@
+---
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: cabin.png
+alt: image-alt
+project-date: September 2016
+description: Join us for a 3-4 miler on the Esplanade at 6:30pm. We'll also be heading to Beacon Hill Pub to continue the discussion.
+
+---
