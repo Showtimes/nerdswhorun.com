@@ -9,7 +9,7 @@ meta_author: Darion Miller
 # Google webmaster tools
 google_verify:
 
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+# https://ssl.bing.com/webmaster/configure/verify/ownefrship Option 2 content= goes here
 bing_verify:
 
 # Contact form:
@@ -42,7 +42,7 @@ social:
   - title: facebook
     url: http://facebook.com/nerdswhorun
   - title: instagram
-    url: http://instagram/nerdswhorun
+    url: http://instagram.com/nerdswhorun
 
 
 # Postal address (add as many lines as necessary)
